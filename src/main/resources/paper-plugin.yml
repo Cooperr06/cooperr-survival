@@ -1,0 +1,7 @@
+name: CooperrSurvival
+version: '${project.version}'
+main: de.cooperr.cooperrsurvival.CooperrSurvival
+api-version: '1.20'
+prefix: CooperrSurvival
+authors: [ Cooperr06 ]
+website: https://www.cooperr.de
